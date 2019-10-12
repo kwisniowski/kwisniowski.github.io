@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var apiRoot = 'https://gentle-reaches-92962.herokuapp.com/v1/task/';
+  var apiRoot = 'https://pure-forest-38869.herokuapp.com/v1/task';
   var datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   var tasksContainer = $('[data-tasks-container]');
 
